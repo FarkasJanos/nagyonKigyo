@@ -1,0 +1,23 @@
+.main-div {
+    max-width: 960px;
+}
+
+.tile {
+    float: left;
+}
+.empty {
+    background: #c3c3c3;
+    
+}
+
+.food{
+    background: red;
+}
+
+.snake{
+    background: green;
+}
+.playground {
+    width: 90%;
+    height: 500px;
+}
